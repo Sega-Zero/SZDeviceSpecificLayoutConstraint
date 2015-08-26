@@ -30,4 +30,3 @@ Simply clone this repo and copy `SZDeviceSpecificLayoutConstraint.h` and `SZDevi
 <img src="http://i.imgur.com/0HsNrs6.png" alt="constant set screenshot" width="50%" height="50%"/>
 
 3. Drink your coffie, you're **awesome**!<br>
-![awesome =)](http://who-is-awesome.com/who-is-awesome.jpg)
