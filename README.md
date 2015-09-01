@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/Sega-Zero/SZDeviceSpecificLayoutConstraint.svg)](https://travis-ci.org/Sega-Zero/SZDeviceSpecificLayoutConstraint)
+[![Pod Version](https://img.shields.io/cocoapods/v/SZDeviceSpecificLayoutConstraint.svg?style=flat)](http://cocoadocs.org/docsets/SZDeviceSpecificLayoutConstraint/)
+[![Pod Platform](http://img.shields.io/cocoapods/p/SZDeviceSpecificLayoutConstraint.svg?style=flat)](http://cocoadocs.org/docsets/SZDeviceSpecificLayoutConstraint/)
+[![Pod License](http://img.shields.io/cocoapods/l/SZDeviceSpecificLayoutConstraint.svg?style=flat)](http://opensource.org/licenses/MIT)
+[![Reference Status](https://www.versioneye.com/objective-c/SZDeviceSpecificLayoutConstraint/reference_badge.svg?style=flat)](https://www.versioneye.com/objective-c/SZDeviceSpecificLayoutConstraint/references)
+
 #What this class is for?
 Ever need to move some UI blocks higher on iphone 4s?
 
