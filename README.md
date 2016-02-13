@@ -15,7 +15,7 @@ If your answer is 'YES' - you may find this class helpful. `SZDeviceSpecificLayo
 
 #Installation
 
-##Cocoapods
+##CocoaPods
 This class is available via [CocoaPods](http://cocoapods.org/). Write this in your `Podfile`:
 
 ```ruby
